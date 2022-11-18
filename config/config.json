@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "nak",
+    "password": "123",
+    "database": "migrate",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5438
+  }
+}
