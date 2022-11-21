@@ -2,7 +2,7 @@
   "development": {
     "username": "nak",
     "password": "123",
-    "database": "migrate",
+    "database": "migrateNode",
     "host": "localhost",
     "dialect": "postgres",
     "port": 5438
